@@ -1,5 +1,5 @@
 #!/bin/bash
-# Extraer informaciond de nmap
+# Extraer informacion de nmap
 # Ejecutar como:
 # extractPorts allPorts
 
